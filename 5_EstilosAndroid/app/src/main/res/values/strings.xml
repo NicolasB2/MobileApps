@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EstilosAndroid</string>
+    <string name="UserNAme">Nombre de Usuario</string>
+    <string name="Mail">Correo Electronico</string>
+    <string name="signin">Iniciar Sesion</string>
+    <string name="forgetpass">Olvidaste tu contraseña</string>
+    <string name="signwith">Iniciar con</string>
+    <string name="signup">Entrar</string>
+    <string name="password">Contraseña</string>
+</resources>
